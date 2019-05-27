@@ -1,0 +1,14 @@
+{
+  "name": "shoppinglist",
+  "version": "0.0.1",
+  "description": "A shopping list I am using to learn electron",
+  "main": "main.js",
+  "scripts": {
+    "test": "electron ."
+  },
+  "author": "Mojo",
+  "license": "MIT",
+  "dependencies": {
+    "electron": "^5.0.2"
+  }
+}
