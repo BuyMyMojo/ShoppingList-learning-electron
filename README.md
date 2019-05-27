@@ -6,6 +6,8 @@ This program is just a basic program I am using to learn the use of electron fro
 
 
 ## change log: 
-+setup npm package
-+install electron
-+empty JS file to start working on
+|additions:|
+|-------------------|
+| +setup npm package |
+| +install electron |
+| +empty JS file to start working on |
