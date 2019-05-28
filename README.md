@@ -8,4 +8,4 @@ This program is just a basic program I am using to learn the use of electron fro
 ## change log: 
 |additions:|
 |-------------------|
-| +gpg signing |
+| +gpg signing again |
