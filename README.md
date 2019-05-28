@@ -8,4 +8,8 @@ This program is just a basic program I am using to learn the use of electron fro
 ## change log: 
 |additions:|
 |-------------------|
-| +gpg signing again x4 |
+| +New section of change log |
+
+|Tests:|
+|------|
+|Are pull requests verafied if accepted?|
